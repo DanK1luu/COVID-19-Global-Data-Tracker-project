@@ -29,6 +29,9 @@ This project is part of the **Python Development Module** and demonstrates real-
 - Jupyter Notebook
 
 ---
+⚠️ Note: The dataset (`owid-covid-data.csv`) is large and not included in this repository.  
+You can download the latest version directly from [Our World in Data](https://covid.ourworldindata.org/data/owid-covid-data.csv).
+Place it in the same folder as the notebook to run the project.
 
 ## 🚀 How to Run the Project
 
